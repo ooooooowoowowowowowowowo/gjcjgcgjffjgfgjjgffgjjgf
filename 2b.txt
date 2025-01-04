@@ -1,15 +1,5 @@
 local msg = Instance.new("Message",workspace)
-msg.Text = "欢迎使用羊脚本"
-wait(2)
-msg:Destroy()
-
-local msg = Instance.new("Message",workspace)
-msg.Text = "脚本永久免费"
-wait(2)
-msg:Destroy()
-
-local msg = Instance.new("Message",workspace)
-msg.Text = "要钱就是被骗"
+msg.Text = "欢迎使用羊脚本v2"
 wait(2)
 msg:Destroy()
 
@@ -41,8 +31,28 @@ local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/
 local Notify = Notification.Notify;
 
  Notify({
-		 Description = "谢谢支持";
-		 Title = "感谢使用";
+		 Description = "yzc仇人";
+		 Title = "XK小玄𡘾！";
+		 Duration = 10;
+		 
+});
+
+local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/FD2Team/archive/main/notificationtest"))();
+local Notify = Notification.Notify;
+
+ Notify({
+		 Description = "yzc仇人";
+		 Title = "XK小玄𡘾！";
+		 Duration = 10;
+		 
+});
+
+local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/FD2Team/archive/main/notificationtest"))();
+local Notify = Notification.Notify;
+
+ Notify({
+		 Description = "yzc仇人";
+		 Title = "XK小玄𡘾！";
 		 Duration = 10;
 		 
 });
