@@ -31,28 +31,8 @@ local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/
 local Notify = Notification.Notify;
 
  Notify({
-		 Description = "yzc仇人";
-		 Title = "XK小玄𡘾！";
-		 Duration = 10;
-		 
-});
-
-local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/FD2Team/archive/main/notificationtest"))();
-local Notify = Notification.Notify;
-
- Notify({
-		 Description = "yzc仇人";
-		 Title = "XK小玄𡘾！";
-		 Duration = 10;
-		 
-});
-
-local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/FD2Team/archive/main/notificationtest"))();
-local Notify = Notification.Notify;
-
- Notify({
-		 Description = "yzc仇人";
-		 Title = "XK小玄𡘾！";
+		 Description = "欢迎使用";
+		 Title = "感谢支持";
 		 Duration = 10;
 		 
 });
