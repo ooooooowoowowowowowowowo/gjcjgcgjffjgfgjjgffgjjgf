@@ -155,7 +155,7 @@ end
 ScreenGui:Destroy()
 
 
-getgenv().yzc="yzcqq292585170" loadstring(game:HttpGet("https://raw.githubusercontent.com/ooooooowoowowowowowowowo/ewweeweweweweeweweweweweewewewewewewe/refs/heads/main/2b.txt"))()
+getgenv().yzc="yzcqq292585170" loadstring(game:HttpGet("https://raw.githubusercontent.com/ooooooowoowowowowowowowo/ewweeweweweweeweweweweweewewewewewewe/refs/heads/main/Protected_7897499988665238.lua"))()
 
     
 
