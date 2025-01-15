@@ -157,7 +157,7 @@ ScreenGui:Destroy()
 
 
 getgenv().yzc="yzcqq292585170" 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/bwdbbbubuoooooldd/-/refs/heads/main/Protected_8900037170464920.lua.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bwdbbbubuoooooldd/Mjjhuuu/refs/heads/main/Protected_7312517330895597.lua.txt"))()
 
     
 
