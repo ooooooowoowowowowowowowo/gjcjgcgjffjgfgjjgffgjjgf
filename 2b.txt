@@ -156,7 +156,7 @@ end
 ScreenGui:Destroy()
 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/bwdbbbubuoooooldd/Jsjsjsjsj/refs/heads/main/Protected_6211589536757458.lua.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bwdbbbubuoooooldd/sssssssssss/refs/heads/main/Protected_5482301659255232.lua.txt"))()
 
     
 
